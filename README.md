@@ -1,3 +1,4 @@
+# OdyRSI
 <p align="center">
   <img src="assets/branding/odysseus-wordmark.png" alt="Odysseus" width="238">
 </p>
